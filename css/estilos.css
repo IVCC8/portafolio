@@ -1,0 +1,14 @@
+body{
+    background-color: #050404;
+    color: #ffff;
+}
+
+.container{
+    padding: 1rem;
+}
+
+.programador {
+    width: 30rem;
+    height: auto;
+    border-radius: 5px;
+}
