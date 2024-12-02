@@ -20,6 +20,48 @@ body {
 }
 
 .programador{
+    width: 350px;
+    height: auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.video{
+    width: 36rem;
+    height: auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.Lineal{
+    width: 9rem;
+    height: auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.if{
+    width: 13rem;
+    height: auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.while{
+    width: 9rem;
+    height: auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.do-while{
+    width: 20rem;
+    height: auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.case{
     width: 20rem;
     height: auto;
     border-radius: 5px;
